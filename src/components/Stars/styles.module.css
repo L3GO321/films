@@ -1,0 +1,4 @@
+.cardBodyStars {
+  display: flex;
+  list-style: none;
+}
